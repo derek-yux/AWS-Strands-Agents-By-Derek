@@ -10,7 +10,7 @@
   </h1>
 
   <h2>
-    A model-driven approach to building AI agents in just a few lines of code.
+    My open-source contributions to AWS' model-driven approach to building AI agents in just a few lines of code.
   </h2>
 
   <div align="center">
